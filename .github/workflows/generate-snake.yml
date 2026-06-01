@@ -1,0 +1,53 @@
+# ══════════════════════════════════════════════════════════════════════════
+# Generate Snake Animation
+# Creates an SVG snake animation from GitHub contribution graph and
+# stores it on a dedicated `output` branch for embedding.
+#
+# Requirements:
+#   - Repository secret `PAT_TOKEN` with `repo` scope
+#
+# References:
+#   - https://github.com/Platane/snk
+# ══════════════════════════════════════════════════════════════════════════
+
+name: 🐍 Generate Snake Animation
+
+on:
+  schedule:
+    # Runs daily at 01:00 UTC (offset to avoid collision with metrics job)
+    - cron: "0 1 * * *"
+
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/generate-snake.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: 🐍 Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: branmarvel
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: 📤 Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: 🐍 auto-update contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
