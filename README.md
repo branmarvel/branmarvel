@@ -19,9 +19,9 @@
 
 <h3>🌐 Language / Idioma</h3>
 
-<a href="README.md">🇺🇸 <img src="https://img.shields.io/badge/English-Click_to_Read-4f46e5?style=for-the-badge" alt="English" /></a>
+<a href="README.md"><img src="https://flagcdn.com/h20/us.png" alt="English" height="20" /> <img src="https://img.shields.io/badge/English-Click_to_Read-4f46e5?style=for-the-badge" alt="English" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="README.es.md">🇪🇸 <img src="https://img.shields.io/badge/Español-Clic_para_Leer-6366f1?style=for-the-badge" alt="Español" /></a>
+<a href="README.es.md"><img src="https://flagcdn.com/h20/es.png" alt="Español" height="20" /> <img src="https://img.shields.io/badge/Español-Clic_para_Leer-6366f1?style=for-the-badge" alt="Español" /></a>
 
 </div>
 
