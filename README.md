@@ -115,23 +115,6 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 ## 🚀 Featured Projects
 
-### 📂 Public & Personal Projects (Open Source / Practice)
-
-<div align="center">
-
-| Project & Description | Repository Stats / Status |
-|-----------------------|------------------|
-| **🌐 Personal Portfolio Website**<br/>Ultra-high-performance and interactive portfolio showcasing responsive animations and clean routing.<br/><br/>`Astro 5` `React 19` `Tailwind v4` `TypeScript` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=portafolio&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/portafolio) |
-| **📱 U-Text App**<br/>Flutter mobile utility showcasing custom text transformations, parsing mechanisms, and highly responsive UI.<br/><br/>`Flutter` `Dart` `State Management` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=U-text&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/U-text) |
-| **📊 Project Control & Management**<br/>Complete web portal facilitating end-to-end task planning, automated logs, and progress charts.<br/><br/>`PHP` `Laravel` `Vue.js` `PostgreSQL` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=Sistema-para-la-Gestion-y-Control-de-proyectos&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/Sistema-para-la-Gestion-y-Control-de-proyectos) |
-| **⚽ CeleBreak Profile Task**<br/>A modern sports matchmaking mobile application layout task focusing on custom widgets and sleek state-flow transitions.<br/><br/>`Flutter` `Dart` `UI/UX Practice` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=profile-CeleBreak-task&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/profile-CeleBreak-task) |
-| **⚡ Next-Gen React Dashboard**<br/>Interactive data analytics dashboard visualizing complex telemetry and metrics. Features real-time state manipulation and custom graphs.<br/><br/>`React 19` `TypeScript` `Zustand` | 🛠️ *Staging - Coming Soon* |
-| **💼 Enterprise React CMS Client**<br/>Modular Content Management System client supporting robust multi-role dashboards and atomic component styling.<br/><br/>`React 19` `Tailwind CSS` `REST Client` | 🛠️ *Staging - Coming Soon* |
-
-</div>
-
-<br/>
-
 ### 🏛️ Enterprise Systems (Staging / Private Repositories)
 
 > [!NOTE]
@@ -144,6 +127,23 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 | **🏛️ Public Assets System (MPPEF)**<br/>End-to-end digital transformation of government asset management. High-performance API processing **100k+ records** with real-time WebSocket updates and OCR auth.<br/><br/>`Go` `Gin` `Astro 5` `React Native` `PostgreSQL` | 🔐 *Private Corporate Staging* |
 | **📦 Warehouse & Inventory System**<br/>Modular logistics platform with hierarchical workflows and real-time notifications via n8n. Boosted productivity by **60%**.<br/><br/>`Laravel 11` `Vue 3` `PrimeVue` `n8n` | 🔐 *Private Corporate Staging* |
 | **🎬 Jutba Streaming Platform**<br/>Cross-platform streaming app with full Android/iOS/Web parity. Integrated Firebase services achieving **40% faster** feature delivery.<br/><br/>`Flutter` `NestJS` `Firebase` | 🔐 *Private Staging / Released* |
+
+</div>
+
+<br/>
+
+### 📂 Public & Personal Projects (Open Source / Practice)
+
+<div align="center">
+
+| Project & Description | Repository Stats / Status |
+|-----------------------|------------------|
+| **🌐 Personal Portfolio Website**<br/>Ultra-high-performance and interactive portfolio showcasing responsive animations and clean routing.<br/><br/>`Astro 5` `React 19` `Tailwind v4` `TypeScript` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=portafolio&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/portafolio) |
+| **📱 U-Text App**<br/>Flutter mobile utility showcasing custom text transformations, parsing mechanisms, and highly responsive UI.<br/><br/>`Flutter` `Dart` `State Management` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=U-text&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/U-text) |
+| **📊 Project Control & Management**<br/>Complete web portal facilitating end-to-end task planning, automated logs, and progress charts.<br/><br/>`PHP` `Laravel` `Vue.js` `PostgreSQL` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=Sistema-para-la-Gestion-y-Control-de-proyectos&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/Sistema-para-la-Gestion-y-Control-de-proyectos) |
+| **⚽ CeleBreak Profile Task**<br/>A modern sports matchmaking mobile application layout task focusing on custom widgets and sleek state-flow transitions.<br/><br/>`Flutter` `Dart` `UI/UX Practice` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=profile-CeleBreak-task&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/profile-CeleBreak-task) |
+| **⚡ Next-Gen React Dashboard**<br/>Interactive data analytics dashboard visualizing complex telemetry and metrics. Features real-time state manipulation and custom graphs.<br/><br/>`React 19` `TypeScript` `Zustand` | 🛠️ *Staging - Coming Soon* |
+| **💼 Enterprise React CMS Client**<br/>Modular Content Management System client supporting robust multi-role dashboards and atomic component styling.<br/><br/>`React 19` `Tailwind CSS` `REST Client` | 🛠️ *Staging - Coming Soon* |
 
 </div>
 
