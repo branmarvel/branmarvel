@@ -160,6 +160,30 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <div align="center">
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Blade                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+```
+
+
+
+
+ Last Updated on 01/06/2026 06:31:06 UTC
 <!--END_SECTION:waka-->
 </div>
 
