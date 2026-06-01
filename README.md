@@ -148,36 +148,18 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <!-- ═══════════════════════ WAKATIME STATS ═══════════════════════════════ -->
 
-## ⏱️ Coding Activity
+## 📊 WakaTime Coding Stats
+
+<p align="center">
+  <a href="https://wakatime.com"><img src="https://img.shields.io/badge/WakaTime-Active-007ACC?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" /></a>
+  <img src="https://img.shields.io/badge/Activated-June%202026-6366F1?style=for-the-badge&logo=calendar&logoColor=white" alt="Activated June 2026" />
+</p>
+
+> [!NOTE]
+> These statistics represent my coding activity tracked in real-time via WakaTime starting from **June 2026**.
 
 <div align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Blade                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-```
-
-
-
-
- Last Updated on 01/06/2026 06:29:41 UTC
 <!--END_SECTION:waka-->
 </div>
 

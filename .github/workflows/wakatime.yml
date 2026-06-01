@@ -48,6 +48,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           FILE: "README.md"
 
       - name: ⏱️ Update WakaTime stats (Spanish)
@@ -66,4 +67,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           FILE: "README.es.md"

@@ -148,7 +148,15 @@ Soy un **Desarrollador Full-Stack** con más de 4 años de experiencia especiali
 
 <!-- ═══════════════════════ ACTIVIDAD DE CÓDIGO ════════════════════════ -->
 
-## ⏱️ Actividad de Código
+## 📊 Estadísticas de Código (WakaTime)
+
+<p align="center">
+  <a href="https://wakatime.com"><img src="https://img.shields.io/badge/WakaTime-Activo-007ACC?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" /></a>
+  <img src="https://img.shields.io/badge/Activado-Junio%202026-6366F1?style=for-the-badge&logo=calendar&logoColor=white" alt="Activado Junio 2026" />
+</p>
+
+> [!NOTE]
+> Estas estadísticas reflejan mi actividad de programación en tiempo real mediante WakaTime, iniciada en **Junio de 2026**.
 
 <div align="center">
 <!--START_SECTION:waka-->
