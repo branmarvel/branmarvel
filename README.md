@@ -17,8 +17,11 @@
 
 <br/>
 
-[![English](https://img.shields.io/badge/Language-English-4f46e5?style=for-the-badge&logo=google-translate&logoColor=white)](README.md)
-[![Español](https://img.shields.io/badge/Idioma-Español-6366f1?style=for-the-badge&logo=google-translate&logoColor=white)](README.es.md)
+<h3>🌐 Language / Idioma</h3>
+
+[![English](https://img.shields.io/badge/English-🇺🇸_Click_to_Read-4f46e5?style=for-the-badge)](README.md)
+&nbsp;&nbsp;
+[![Español](https://img.shields.io/badge/Español-🇪🇸_Clic_para_Leer-6366f1?style=for-the-badge)](README.es.md)
 
 </div>
 
