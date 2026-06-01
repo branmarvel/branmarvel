@@ -9,7 +9,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:6366f1&height=220&section=header&text=Brandon%20J.%20Bello%20Moncada&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20GovTech%20%26%20FinTech%20Specialist&descSize=16&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%9A%80+Building+mission-critical+systems+with+Go+%26+Laravel;%F0%9F%8F%86+3x+ICPC+Honorable+Mention+%E2%80%94+South+America;%F0%9F%92%A1+Turning+complex+requirements+into+scalable+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%9A%80+Building+mission-critical+systems+with+Go+%26+Laravel;%F0%9F%8F%97%EF%B8%8F+Architecting+clean%2C+scalable+%26+high-performance+backends;%F0%9F%92%A1+Turning+complex+requirements+into+scalable+solutions)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=branmarvel&label=Profile%20Views&color=4f46e5&style=for-the-badge)](https://github.com/branmarvel)
 [![GitHub Followers](https://img.shields.io/github/followers/branmarvel?label=Followers&style=for-the-badge&color=6366f1&labelColor=1e1b4b)](https://github.com/branmarvel?tab=followers)
@@ -27,7 +27,6 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 - 🔭 **Currently working on:** Public Assets Management System (Go + Astro + React Native)
 - 🌱 **Currently learning:** Advanced AI integrations for automated auditing (n8n + LLMs)
-- 👯 **Looking to collaborate on:** Open-source Go tools and FinTech innovations
 - 📫 **How to reach me:** [brandon91596@gmail.com](mailto:brandon91596@gmail.com)
 
 <br/>
@@ -116,13 +115,35 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 ## 🚀 Featured Projects
 
+### 📂 Public & Personal Projects (Open Source / Practice)
+
 <div align="center">
 
-| Project & Description | Repository Stats |
+| Project & Description | Repository Stats / Status |
 |-----------------------|------------------|
-| **🏛️ Public Assets System (MPPEF)**<br/>End-to-end digital transformation of government asset management. High-performance API processing **100k+ records** with real-time WebSocket updates and OCR auth.<br/><br/>`Go` `Gin` `Astro 5` `React Native` `PostgreSQL` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=asset-management-backend&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/asset-management-backend) |
-| **📦 Warehouse & Inventory System**<br/>Modular logistics platform with hierarchical workflows and real-time notifications via n8n. Boosted productivity by **60%**.<br/><br/>`Laravel 11` `Vue 3` `PrimeVue` `n8n` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=almacen_laravel&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/almacen_laravel) |
-| **🎬 Jutba Streaming Platform**<br/>Cross-platform streaming app with full Android/iOS/Web parity. Integrated Firebase services achieving **40% faster** feature delivery.<br/><br/>`Flutter` `NestJS` `Firebase` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=jutba-backend&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/jutba-backend) |
+| **🌐 Personal Portfolio Website**<br/>Ultra-high-performance and interactive portfolio showcasing responsive animations and clean routing.<br/><br/>`Astro 5` `React 19` `Tailwind v4` `TypeScript` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=portafolio&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/portafolio) |
+| **📱 U-Text App**<br/>Flutter mobile utility showcasing custom text transformations, parsing mechanisms, and highly responsive UI.<br/><br/>`Flutter` `Dart` `State Management` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=U-text&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/U-text) |
+| **📊 Project Control & Management**<br/>Complete web portal facilitating end-to-end task planning, automated logs, and progress charts.<br/><br/>`PHP` `Laravel` `Vue.js` `PostgreSQL` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=Sistema-para-la-Gestion-y-Control-de-proyectos&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/Sistema-para-la-Gestion-y-Control-de-proyectos) |
+| **⚽ CeleBreak Profile Task**<br/>A modern sports matchmaking mobile application layout task focusing on custom widgets and sleek state-flow transitions.<br/><br/>`Flutter` `Dart` `UI/UX Practice` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=profile-CeleBreak-task&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/profile-CeleBreak-task) |
+| **⚡ Next-Gen React Dashboard**<br/>Interactive data analytics dashboard visualizing complex telemetry and metrics. Features real-time state manipulation and custom graphs.<br/><br/>`React 19` `TypeScript` `Zustand` | 🛠️ *Staging - Coming Soon* |
+| **💼 Enterprise React CMS Client**<br/>Modular Content Management System client supporting robust multi-role dashboards and atomic component styling.<br/><br/>`React 19` `Tailwind CSS` `REST Client` | 🛠️ *Staging - Coming Soon* |
+
+</div>
+
+<br/>
+
+### 🏛️ Enterprise Systems (Staging / Private Repositories)
+
+> [!NOTE]
+> The source code for these platforms remains private under proprietary/governmental confidentiality agreements. The metrics shown represent non-confidential architectural achievements.
+
+<div align="center">
+
+| Project & Description | Staging Status |
+|-----------------------|------------------|
+| **🏛️ Public Assets System (MPPEF)**<br/>End-to-end digital transformation of government asset management. High-performance API processing **100k+ records** with real-time WebSocket updates and OCR auth.<br/><br/>`Go` `Gin` `Astro 5` `React Native` `PostgreSQL` | 🔐 *Private Corporate Staging* |
+| **📦 Warehouse & Inventory System**<br/>Modular logistics platform with hierarchical workflows and real-time notifications via n8n. Boosted productivity by **60%**.<br/><br/>`Laravel 11` `Vue 3` `PrimeVue` `n8n` | 🔐 *Private Corporate Staging* |
+| **🎬 Jutba Streaming Platform**<br/>Cross-platform streaming app with full Android/iOS/Web parity. Integrated Firebase services achieving **40% faster** feature delivery.<br/><br/>`Flutter` `NestJS` `Firebase` | 🔐 *Private Staging / Released* |
 
 </div>
 
