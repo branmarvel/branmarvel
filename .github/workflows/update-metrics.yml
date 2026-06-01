@@ -52,7 +52,7 @@ jobs:
           config_timezone: America/Caracas
 
           # ── Base configuration ──
-          base: header, activity, community, repositories, metadata
+          base: header, repositories, metadata
           base_indepth: no
           repositories_affiliations: owner, collaborator, organization_member
 

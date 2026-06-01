@@ -148,69 +148,16 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <!-- ═══════════════════════ WAKATIME STATS ═══════════════════════════════ -->
 
+<!--
 ## ⏱️ Coding Activity
 
 <div align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.82%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 406 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Blade                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/branmarvel/branmarvel/main/assets/bar_graph.png)
-
-
- Last Updated on 01/06/2026 04:59:43 UTC
 <!--END_SECTION:waka-->
 </div>
 
 <br/>
-
-<!-- ═══════════════════════ RECENT ACTIVITY ═════════════════════════════ -->
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br/>
+-->
 
 <!-- ═══════════════════════ METRICS (AUTO-UPDATED) ══════════════════════ -->
 
