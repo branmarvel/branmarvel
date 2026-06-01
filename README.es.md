@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  GitHub Profile README — Brandon J. Bello Moncada (@branmarvel)   ║ -->
-<!-- ║  Auto-updated via GitHub Actions · Last reviewed: 2025-06        ║ -->
+<!-- ║  Auto-actualizado por GitHub Actions · Última revisión: 2025-06    ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
@@ -9,7 +9,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:6366f1&height=220&section=header&text=Brandon%20J.%20Bello%20Moncada&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20GovTech%20%26%20FinTech%20Specialist&descSize=16&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%9A%80+Building+mission-critical+systems+with+Go+%26+Laravel;%F0%9F%8F%97%EF%B8%8F+Architecting+clean%2C+scalable+%26+high-performance+backends;%F0%9F%92%A1+Turning+complex+requirements+into+scalable+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%9A%80+Construyendo+sistemas+cr%C3%ADticos+con+Go+y+Laravel;%F0%9F%8F%97%EF%B8%8F+Arquitecturando+backends+limpios%2C+escalables+y+de+alto+rendimiento;%F0%9F%92%A1+Transformando+requerimientos+complejos+en+soluciones+escalables)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=branmarvel&label=Profile%20Views&color=4f46e5&style=for-the-badge)](https://github.com/branmarvel)
 [![GitHub Followers](https://img.shields.io/github/followers/branmarvel?label=Followers&style=for-the-badge&color=6366f1&labelColor=1e1b4b)](https://github.com/branmarvel?tab=followers)
@@ -24,21 +24,21 @@
 
 ---
 
-<!-- ═════════════════════════════ ABOUT ME ═══════════════════════════════ -->
+<!-- ═════════════════════════════ SOBRE MÍ ═══════════════════════════════ -->
 
-## 👋 About Me
+## 👋 Sobre Mí
 
-I am a **Full-Stack Developer** with 4+ years of experience specializing in digital transformation for government and financial sectors. I architect secure, high-performance systems that automate complex workflows and handle large-scale data.
+Soy un **Desarrollador Full-Stack** con más de 4 años de experiencia especializándome en la transformación digital de los sectores gubernamental y financiero. Diseño y construyo arquitecturas seguras y de alto rendimiento que automatizan flujos complejos de trabajo y gestionan volúmenes de datos masivos.
 
-- 🔭 **Currently working on:** Public Assets Management System (Go + Astro + React Native)
-- 🌱 **Currently learning:** Advanced AI integrations for automated auditing (n8n + LLMs)
-- 📫 **How to reach me:** [brandon91596@gmail.com](mailto:brandon91596@gmail.com)
+- 🔭 **Actualmente trabajando en:** Sistema de Gestión y Control de Bienes Públicos (Go + Astro + React Native)
+- 🌱 **Actualmente aprendiendo:** Integraciones avanzadas de IA para auditoría automatizada (n8n + LLMs)
+- 📫 **Cómo contactarme:** [brandon91596@gmail.com](mailto:brandon91596@gmail.com)
 
 <br/>
 
-<!-- ══════════════════════════ GITHUB STATS ══════════════════════════════ -->
+<!-- ══════════════════════════ ESTADÍSTICAS ══════════════════════════════ -->
 
-## 📊 Stats & Metrics
+## 📊 Estadísticas y Métricas
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <br/>
 
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════════════ -->
+<!-- ═══════════════════════ GRÁFICA DE ACTIVIDAD ════════════════════════ -->
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <!-- ════════════════════════════ TECH STACK ══════════════════════════════ -->
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías e Instrumentos
 
 <details open>
 <summary><b>Backend</b></summary>
@@ -82,7 +82,7 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 </details>
 
 <details open>
-<summary><b>Frontend & Mobile</b></summary>
+<summary><b>Frontend y Móvil</b></summary>
 <br/>
 
 ![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -94,7 +94,7 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 </details>
 
 <details open>
-<summary><b>DevOps, Cloud & Automation</b></summary>
+<summary><b>DevOps, Nube y Automatización</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -105,7 +105,7 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 </details>
 
 <details open>
-<summary><b>Data & BI</b></summary>
+<summary><b>Datos e Inteligencia de Negocios (BI)</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -116,53 +116,53 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <br/>
 
-<!-- ═══════════════════════ FEATURED PROJECTS ════════════════════════════ -->
+<!-- ═══════════════════════ PROYECTOS DESTACADOS ════════════════════════ -->
 
-## 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
-### 🏛️ Enterprise Systems (Staging / Private Repositories)
+### 🏛️ Sistemas Empresariales (Staging / Repositorios Privados)
 
 > [!NOTE]
-> The source code for these platforms remains private under proprietary/governmental confidentiality agreements. The metrics shown represent non-confidential architectural achievements.
+> El código fuente de estas plataformas se mantiene privado bajo acuerdos estrictos de confidencialidad gubernamentales/empresariales. Las métricas reflejadas representan logros arquitectónicos no confidenciales.
 
 <div align="center">
 
-| Project & Description | Staging Status |
+| Proyecto y Descripción | Estado del Staging |
 |-----------------------|------------------|
-| **🏛️ Public Assets System (MPPEF)**<br/>End-to-end digital transformation of government asset management. High-performance API processing **100k+ records** with real-time WebSocket updates and OCR auth.<br/><br/>`Go` `Gin` `Astro 5` `React Native` `PostgreSQL` | 🔐 *Private Corporate Staging* |
-| **📦 Warehouse & Inventory System**<br/>Modular logistics platform with hierarchical workflows and real-time notifications via n8n. Boosted productivity by **60%**.<br/><br/>`Laravel 11` `Vue 3` `PrimeVue` `n8n` | 🔐 *Private Corporate Staging* |
-| **🎬 Jutba Streaming Platform**<br/>Cross-platform streaming app with full Android/iOS/Web parity. Integrated Firebase services achieving **40% faster** feature delivery.<br/><br/>`Flutter` `NestJS` `Firebase` | 🔐 *Private Staging / Released* |
+| **🏛️ Sistema de Bienes Públicos (MPPEF)**<br/>Transformación digital de extremo a extremo del sistema de control de bienes gubernamentales. API de alto rendimiento procesando **más de 100k registros** con WebSocket en tiempo real y autenticación OCR.<br/><br/>`Go` `Gin` `Astro 5` `React Native` `PostgreSQL` | 🔐 *Staging Corporativo Privado* |
+| **📦 Sistema de Almacén e Inventario**<br/>Plataforma modular de logística con flujos de aprobación jerárquicos y notificaciones en tiempo real vía n8n. Incrementó la **productividad operativa en un 60%**.<br/><br/>`Laravel 11` `Vue 3` `PrimeVue` `n8n` | 🔐 *Staging Corporativo Privado* |
+| **🎬 Plataforma de Streaming Jutba**<br/>Aplicación de streaming multiplataforma con paridad total en Android, iOS y Web. Servicios Firebase integrados que lograron un **40% de mayor velocidad** de entrega.<br/><br/>`Flutter` `NestJS` `Firebase` | 🔐 *Staging Privado / Lanzado* |
 
 </div>
 
 <br/>
 
-### 📂 Public & Personal Projects (Open Source / Practice)
+### 📂 Proyectos Públicos y Personales (Código Abierto / Práctica)
 
 <div align="center">
 
-| Project & Description | Repository Stats / Status |
+| Proyecto y Descripción | Estadísticas del Repo / Estado |
 |-----------------------|------------------|
-| **🌐 Personal Portfolio Website**<br/>Ultra-high-performance and interactive portfolio showcasing responsive animations and clean routing.<br/><br/>`Astro 5` `React 19` `Tailwind v4` `TypeScript` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=portafolio&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/portafolio) |
-| **📱 U-Text App**<br/>Flutter mobile utility showcasing custom text transformations, parsing mechanisms, and highly responsive UI.<br/><br/>`Flutter` `Dart` `State Management` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=U-text&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/U-text) |
-| **📊 Project Control & Management**<br/>Complete web portal facilitating end-to-end task planning, automated logs, and progress charts.<br/><br/>`PHP` `Laravel` `Vue.js` `PostgreSQL` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=Sistema-para-la-Gestion-y-Control-de-proyectos&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/Sistema-para-la-Gestion-y-Control-de-proyectos) |
-| **⚽ CeleBreak Profile Task**<br/>A modern sports matchmaking mobile application layout task focusing on custom widgets and sleek state-flow transitions.<br/><br/>`Flutter` `Dart` `UI/UX Practice` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=profile-CeleBreak-task&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/profile-CeleBreak-task) |
-| **💱 Ve-Exchange Calculator**<br/>Currency converter and real-time rate calculator integrating Binance P2P and BCV (Banco Central de Venezuela) APIs to track and calculate USD <-> VES conversions.<br/><br/>`React 19` `TypeScript` `Tailwind CSS` `REST APIs` | 🛠️ *Staging - Coming Soon* |
-| **📶 Movilnet Balance Checker**<br/>Utility application that queries mobile phone balances and active plan details for Movilnet subscribers using public API requests.<br/><br/>`React 19` `TypeScript` `Tailwind CSS` `REST Client` | 🛠️ *Staging - Coming Soon* |
+| **🌐 Portafolio Personal Web**<br/>Sitio web interactivo y ultra-optimizado que muestra animaciones fluidas, enrutamiento rápido y soporte bilingüe.<br/><br/>`Astro 5` `React 19` `Tailwind v4` `TypeScript` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=portafolio&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/portafolio) |
+| **📱 U-Text App**<br/>Utilidad móvil en Flutter que implementa transformaciones avanzadas de texto, análisis de expresiones y una interfaz responsiva.<br/><br/>`Flutter` `Dart` `State Management` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=U-text&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/U-text) |
+| **📊 Control y Gestión de Proyectos**<br/>Portal web completo que facilita la planificación de tareas de extremo a extremo, logs automatizados y gráficas de progreso.<br/><br/>`PHP` `Laravel` `Vue.js` `PostgreSQL` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=Sistema-para-la-Gestion-y-Control-de-proyectos&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/Sistema-para-la-Gestion-y-Control-de-proyectos) |
+| **⚽ CeleBreak Profile Task**<br/>Maquetación moderna de perfil para aplicación móvil de emparejamiento deportivo enfocada en lógica de estados y animaciones de widgets.<br/><br/>`Flutter` `Dart` `Práctica UI/UX` | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=branmarvel&repo=profile-CeleBreak-task&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/branmarvel/profile-CeleBreak-task) |
+| **💱 Calculadora Ve-Exchange**<br/>Conversor y calculadora de tasas en tiempo real integrando APIs públicas de Binance P2P y BCV (Banco Central de Venezuela) para conversiones USD <-> VES.<br/><br/>`React 19` `TypeScript` `Tailwind CSS` `APIs REST` | 🛠️ *Staging - Próximamente* |
+| **📶 Consulta de Saldo Movilnet**<br/>Aplicación útil para la consulta rápida del saldo de línea y detalles de planes activos para usuarios de Movilnet mediante consumo de API.<br/><br/>`React 19` `TypeScript` `Tailwind CSS` `Cliente REST` | 🛠️ *Staging - Próximamente* |
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════ ACHIEVEMENTS ══════════════════════════════ -->
+<!-- ══════════════════════════ LOGROS ═══════════════════════════════════ -->
 
-## 🏆 Achievements & Certifications
+## 🏆 Certificaciones y Logros
 
 <div align="center">
 
-| | Achievement | Details |
+| | Logro / Certificación | Detalles |
 |---|---|---|
-| 🥇 | **ICPC — Honorable Mention ×3** | South America Regional Finals (2022, 2023, 2024) |
+| 🥇 | **ICPC — Mención de Honor ×3** | Finales Regionales de Sudamérica (2022, 2023, 2024) |
 | 🛡️ | **Google Cybersecurity Certificate** | Coursera (2023) |
 | 💼 | **Digital Acumen** | PwC (2023) |
 
@@ -170,9 +170,9 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <br/>
 
-<!-- ═══════════════════════ WAKATIME STATS ═══════════════════════════════ -->
+<!-- ═══════════════════════ ACTIVIDAD DE CÓDIGO ════════════════════════ -->
 
-## ⏱️ Coding Activity
+## ⏱️ Actividad de Código
 
 <div align="center">
 <!--START_SECTION:waka-->
@@ -183,19 +183,19 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <!-- ═══════════════════════ RECENT ACTIVITY ═════════════════════════════ -->
 
-## ⚡ Recent Activity
+## ⚡ Actividad Reciente en GitHub
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 <br/>
 
-<!-- ═══════════════════════ METRICS (AUTO-UPDATED) ══════════════════════ -->
+<!-- ═══════════════════════ METRICAS DETALLADAS ═════════════════════════ -->
 
-## 📈 Detailed Metrics
+## 📈 Métricas Detalladas
 
 <!-- START_SECTION:metrics -->
-<!-- This section is auto-updated by GitHub Actions -->
+<!-- Se auto-actualiza diariamente vía GitHub Actions -->
 <div align="center">
   <img src="./assets/metrics.svg" alt="Detailed Metrics" width="100%" />
 </div>
@@ -203,9 +203,9 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <br/>
 
-<!-- ═══════════════════════════ CONNECT ══════════════════════════════════ -->
+<!-- ═══════════════════════════ CONECTAR ═════════════════════════════════ -->
 
-## 📫 Let's Connect
+## 📫 Conéctate Conmigo
 
 <div align="center">
 
@@ -230,7 +230,7 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <br/>
 
-<!-- ═══════════════════════════ QUOTE ════════════════════════════════════ -->
+<!-- ═══════════════════════════ FRASES ════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
@@ -244,6 +244,6 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:6366f1&height=120&section=footer)
 
-<sub>⚡ Crafted with care · Turning complex requirements into scalable solutions</sub>
+<sub>⚡ Creado con dedicación · Soluciones escalables para requerimientos complejos</sub>
 
 </div>

@@ -29,10 +29,20 @@ jobs:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: ⚡ Generate and inject GitHub activity
+      - name: ⚡ Generate and inject GitHub activity (English)
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         with:
-          COMMIT_MSG: "chore: ⚡ update recent activity logs"
+          COMMIT_MSG: "chore: ⚡ update recent activity logs (EN)"
           MAX_LIMIT: 5
+          README_FILEPATH: "./README.md"
+
+      - name: ⚡ Generate and inject GitHub activity (Spanish)
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: ⚡ update recent activity logs (ES)"
+          MAX_LIMIT: 5
+          README_FILEPATH: "./README.es.md"
