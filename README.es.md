@@ -148,7 +148,6 @@ Soy un **Desarrollador Full-Stack** con más de 4 años de experiencia especiali
 
 <!-- ═══════════════════════ ACTIVIDAD DE CÓDIGO ════════════════════════ -->
 
-<!--
 ## ⏱️ Actividad de Código
 
 <div align="center">
@@ -157,7 +156,7 @@ Soy un **Desarrollador Full-Stack** con más de 4 años de experiencia especiali
 </div>
 
 <br/>
--->
+
 
 <!-- ═══════════════════════ METRICAS DETALLADAS ═════════════════════════ -->
 

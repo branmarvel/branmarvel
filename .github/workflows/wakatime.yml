@@ -43,8 +43,11 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_COMMIT: "False"
           SHOW_LANGUAGE: "True"
-          SHOW_LINES_OF_CODE: "True"
           SHOW_DAYS_OF_WEEK: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
           FILE: "README.md"
 
       - name: ⏱️ Update WakaTime stats (Spanish)
@@ -58,6 +61,9 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_COMMIT: "False"
           SHOW_LANGUAGE: "True"
-          SHOW_LINES_OF_CODE: "True"
           SHOW_DAYS_OF_WEEK: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
           FILE: "README.es.md"
