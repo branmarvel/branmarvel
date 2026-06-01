@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:6366f1&height=220&section=header&text=Brandon%20J.%20Bello%20Moncada&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20GovTech%20%26%20FinTech%20Specialist&descSize=16&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:6366f1&height=220&section=header&text=Brandon%20J.%20Bello%20Moncada&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20GovTech%20and%20FinTech%20Specialist&descSize=16&descAlignY=55&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%9A%80+Construyendo+sistemas+cr%C3%ADticos+con+Go+y+Laravel;%F0%9F%8F%97%EF%B8%8F+Arquitecturando+backends+limpios%2C+escalables+y+de+alto+rendimiento;%F0%9F%92%A1+Transformando+requerimientos+complejos+en+soluciones+escalables)](https://git.io/typing-svg)
 
@@ -39,34 +39,7 @@ Soy un **Desarrollador Full-Stack** con más de 4 años de experiencia especiali
 
 <br/>
 
-<!-- ══════════════════════════ ESTADÍSTICAS ══════════════════════════════ -->
 
-## 📊 Estadísticas y Métricas
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=branmarvel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=4f46e5&text_color=c9d1d9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=branmarvel&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=branmarvel&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=6366f1&ring=4f46e5&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ GRÁFICA DE ACTIVIDAD ════════════════════════ -->
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=branmarvel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=4f46e5&point=c9d1d9&area=true&area_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
 
 <!-- ════════════════════════════ TECH STACK ══════════════════════════════ -->
 
