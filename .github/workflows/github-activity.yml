@@ -1,0 +1,38 @@
+# ══════════════════════════════════════════════════════════════════════════
+# Update Recent Activity
+# Fetches your latest GitHub activity (commits, PRs, issues) and injects
+# it directly into the README.md in the <!--START_SECTION:activity--> block.
+#
+# Requirements:
+#   - Repository secret `PAT_TOKEN` with `repo` scope
+#
+# References:
+#   - https://github.com/jamesgeorge007/github-activity-readme
+# ══════════════════════════════════════════════════════════════════════════
+
+name: ⚡ Update GitHub Activity
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    name: Update Activity Logs
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: ⚡ Generate and inject GitHub activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: ⚡ update recent activity logs"
+          MAX_LIMIT: 5

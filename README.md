@@ -155,6 +155,15 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <br/>
 
+<!-- ═══════════════════════ RECENT ACTIVITY ═════════════════════════════ -->
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
 <!-- ═══════════════════════ METRICS (AUTO-UPDATED) ══════════════════════ -->
 
 ## 📈 Detailed Metrics
@@ -191,6 +200,14 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/branmarvel/branmarvel/output/github-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/branmarvel/branmarvel/output/github-snake.svg" width="100%" />
   </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ QUOTE ════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br/>
