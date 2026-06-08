@@ -163,6 +163,20 @@ I am a **Full-Stack Developer** with 4+ years of experience specializing in digi
 
 <div align="center">
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               1 hr 1 min          ██████████░░░░░░░░░░░░░░░   38.19 % 
+Markdown                 1 hr                █████████░░░░░░░░░░░░░░░░   37.62 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Dart                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+
+🔥 Editors: 
+Antigravity              2 hrs 40 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -176,7 +190,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 06:34:08 UTC
+ Last Updated on 08/06/2026 06:49:03 UTC
 <!--END_SECTION:waka-->
 </div>
 
